@@ -9,6 +9,6 @@
  let countTrinkets= Number (prompt("How many trinkets were sold?"));
 
  let totalWeight = countSouvenirs * gramSouvenirs + countTrinkets * gramTrinkets;
- console.log("The total weight is - ${totalWeight} gram!")
+ console.log(`The total weight is - ${totalWeight} gram!`)
 
 
